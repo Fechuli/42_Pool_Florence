@@ -38,11 +38,11 @@ Form         | Grade
 [C 06](/C06/) | 70%
 [C 07](/C07/) | 60%
 [C 08](/C08/) | 100%
-[C 09] | (Not Started)
-[C 10] | (Not Started)
-[C 11] | (Not Started)
-[C 12] | (Not Started)
-[C 13] | (Not Started)
+C 09 | (Not Started)
+C 10 | (Not Started)
+C 11 | (Not Started)
+C 12 | (Not Started)
+C 13 | (Not Started)
 Exam 00 | 30%
 Exam 01 | 40%
 Exam 02 | 40%
