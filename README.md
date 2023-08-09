@@ -27,8 +27,8 @@ C compiler (and more). Super useful for more advanced exercises.
 
 Form         | Grade 
 :-----------:|:------:
-[Shell 00](/S00/) | 50%
-[Shell 01](/S01/) | 70%
+Shell 00 | 50%
+Shell 01 | 70%
 [C 00](/C00/) | 85%
 [C 01](/C01/) | 85%
 [C 02](/C02/) | 65%
