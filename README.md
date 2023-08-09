@@ -1,8 +1,10 @@
 # 42_Pool_Florence
-In this repository you will find all my progress and exercises that I have performed during my time at Florence 42. 
-I hope it will help! The course lasted from 7/17/2023 to 11/8/2023.
+In this repository you will find all my progress and exercises that I have performed during my time at Florence 42.
 
-Presented here you will find all the exercises I have done. They are the bare minimum to pass the various modules. Each exercise also contains the respective main. 
+They are the bare minimum to pass the various modules.
+
+Each exercise also contains the respective main. 
+I hope it will help! The course lasted from 7/17/2023 to 11/8/2023.
 
 I also include links to resources that have been helpful to me along the way.
 
